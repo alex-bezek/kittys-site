@@ -1,0 +1,58 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Specialty Intern in Veterinary Medicine
+# your company information
+company:
+  name: North Carolina Veterinary Specialty
+  url: https://www.carolinavet.com/site/home
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: Proident exercitation nisi reprehenderit nulla occaecat pariatur pariatur velit voluptate. Aliqua ea do velit Lorem.Exercitation sit ut et adipisicing cupidatat dolore dolore consectetur sunt.Proident sit consectetur occaecat et exercitation aliquip tempor dolor pariatur proident deserunt.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "kittygoldsby@gmail.com"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Radiology Tech
+  percentage: 85
+  color: blue
+- name: People Skills
+  percentage: 95
+  color: yellow
+- name: Team Player
+  percentage: 95
+  color: pink
+- name: Hard Working
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
+# you can also provide color code instead of pre-defined color name
+# - name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
+# - name: Example 2
+#   percentage: 65
+#   color: "#8b8383"
