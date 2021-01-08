@@ -8,14 +8,14 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Specialty Intern in Veterinary Medicine
+designation: Rotating Small Animal Medicine and Surgery Internship
 # your company information
 company:
   name: North Carolina Veterinary Specialty
   url: https://www.carolinavet.com/site/home
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+# resume: "files/resume.pdf"
 
 # a summary about you
 summary: Proident exercitation nisi reprehenderit nulla occaecat pariatur pariatur velit voluptate. Aliqua ea do velit Lorem.Exercitation sit ut et adipisicing cupidatat dolore dolore consectetur sunt.Proident sit consectetur occaecat et exercitation aliquip tempor dolor pariatur proident deserunt.
@@ -31,22 +31,22 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Radiology Tech
+- name: ER Medicine
   percentage: 85
   color: blue
-- name: People Skills
+- name: Radiology
   percentage: 95
   color: yellow
-- name: Team Player
-  percentage: 95
+- name: Surgery
+  percentage: 80
   color: pink
-- name: Hard Working
+- name: Internal Medicine
   percentage: 85
   color: green
-- name: Fast Learner
+- name: Neurology
   percentage: 85
   color: sky
-- name: Problem Solving
+- name: Client Communication
   percentage: 85
   color: orange
 # you can also provide color code instead of pre-defined color name
